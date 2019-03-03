@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Kawakami Akari <akari.k.c5@gmail.com>",
   "dependencies": {
+    "@material-ui/icons": "^3.0.2",
     "gatsby": "^2.1.17",
     "gatsby-image": "^2.0.29",
     "gatsby-plugin-manifest": "^2.0.19",
